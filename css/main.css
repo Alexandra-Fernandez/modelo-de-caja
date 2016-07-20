@@ -1,0 +1,23 @@
+/** 
+Escribir el CSS necesario aqui
+*/
+body{
+	margin: 200px;
+}
+#caja {
+	background-color: purple;
+	padding: 20px 10px;
+}
+#cajita {
+	background-color: #FFE4C4;
+	padding:10px 20px 30px 80px;
+	
+
+}
+p{
+	border: 2px dashed black;
+	text-align: center;
+	background-color: #FFFFFF;
+	padding: 10px;
+
+}
