@@ -1,23 +1,17 @@
-/** 
-Escribir el CSS necesario aqui
-*/
-body{
-	margin: 200px;
+.padre {
+	margin: 120px 60px 30.5px 60px;
+	padding: 40px 20px 70px 100px;
+	border: 20px solid #9900FF;
+	border-left: 10px solid #9900FF;
+	border-right: 10px solid #9900FF;
+	background-color: #F9CB9C;
 }
-#caja {
-	background-color: purple;
-	padding: 20px 10px;
-}
-#cajita {
-	background-color: #FFE4C4;
-	padding:10px 20px 30px 80px;
-	
 
-}
-p{
-	border: 2px dashed black;
-	text-align: center;
-	background-color: #FFFFFF;
-	padding: 10px;
+.hijo {
 
+	border: 2px dashed #38761D;
+	background-color: white;	
+	text-align: center;	
+	line-height: 50px;
+	height: 50px;
 }
